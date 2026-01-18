@@ -53,7 +53,7 @@ Sou um desenvolvedor focado em Back-end e Python, sempre buscando criar soluçõ
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabriel74Alves&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=dracula"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel74Alves&layout=compact&theme=dracula"/>
   </a>
 </div>
 
@@ -61,7 +61,7 @@ Sou um desenvolvedor focado em Back-end e Python, sempre buscando criar soluçõ
 
 ### 📫 Contato
 
-<a href="https://www.linkedin.com/in/SEU_LINKEDIN](https://www.linkedin.com/in/gabriel-alves-coelho-2485101a2/" target="_blank">
+<a href="https://www.linkedin.com/in/gabriel-alves-coelho-2485101a2/" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
 </a> 
 <a href="mailto:gaa.alves74@gmail.com">
